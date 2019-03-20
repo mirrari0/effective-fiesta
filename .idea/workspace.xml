@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="420c65bf-3eba-4ecd-b81d-8ab0f1dade67" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/FooBarQix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FooBarQix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FooBarQixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FooBarQixTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -25,13 +26,16 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/FooBarQixTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                <state relative-caret-position="270">
+                  <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
                   <folding>
                     <element signature="imports" expanded="true" />
+                    <element signature="e#177#178#0" expanded="true" />
                     <element signature="e#242#243#0" expanded="true" />
                     <element signature="e#280#281#0" expanded="true" />
                     <element signature="e#309#310#0" expanded="true" />
+                    <element signature="e#402#403#0" expanded="true" />
+                    <element signature="e#464#465#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -44,8 +48,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/FooBarQix.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+                <state relative-caret-position="120">
+                  <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
@@ -133,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553110148277" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553110377417" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -189,7 +193,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553109615109</updated>
-      <workItem from="1553109617176" duration="623000" />
+      <workItem from="1553109617176" duration="757000" />
     </task>
     <servers />
   </component>
@@ -212,12 +216,16 @@
     <history-entry file="FooBarQixTest - 2019.03.20 at 14h 30m 40s.xml">
       <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 32m 41s.xml">
+      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="623000" />
+    <option name="totallyTimeSpent" value="757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="642" y="23" width="1278" height="985" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -255,23 +263,26 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/FooBarQix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FooBarQixTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="270">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#280#281#0" expanded="true" />
             <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FooBarQix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>

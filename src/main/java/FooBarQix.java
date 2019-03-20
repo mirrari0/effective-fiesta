@@ -5,6 +5,9 @@ public class FooBarQix {
         if(i % 3 == 0){
             playerEntered = "foo";
         }
+        if(i==5) {
+            playerEntered = "bar";
+        }
 
         return playerEntered;
     }
