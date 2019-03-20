@@ -5,7 +5,7 @@ public class FooBarQix {
         if(number % 3 == 0){
             playerEntered = "foo";
         }
-        if(number==5) {
+        if(number % 5 == 0) {
             playerEntered = "bar";
         }
 
@@ -19,6 +19,13 @@ public class FooBarQix {
                 playerEntered+="foo";
             }
         }
+
+        for(int i =0; i < stringNum.length(); i++) {
+            if('5' == stringNum.charAt(i)) {
+                playerEntered+="bar";
+            }
+        }
+
         if(playerEntered.equals("")) {
             playerEntered = stringNum;
         }
