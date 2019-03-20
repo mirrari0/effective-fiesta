@@ -39,7 +39,12 @@ public class FooBarQixTest {
     }
 
     @Test
-    public void contains_digit_seven_and_divisible_by_seven_should_return_qixqix() {
-        assertEquals("qixqix", new FooBarQix().playGame(70));
+    public void contains_digit_seven_and_divisible_by_seven_should_return_qixqixqix() {
+        assertEquals("qixqixqix", new FooBarQix().playGame(77));
+    }
+
+    @Test
+    public void contains_digit_five_and_is_multiple_of_five_and_seven_should_return_barqixfoobar() {
+        assertEquals("barqixfoobar", new FooBarQix().playGame(35));
     }
 }

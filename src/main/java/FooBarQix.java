@@ -10,7 +10,7 @@ public class FooBarQix {
         }
 
         if (number % 7 == 0) {
-            playerEntered = "qix";
+            playerEntered += "qix";
         }
 
         String stringNum = String.valueOf(number);
