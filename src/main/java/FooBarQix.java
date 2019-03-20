@@ -21,6 +21,9 @@ public class FooBarQix {
             if ('5' == stringNum.charAt(i)) {
                 playerEntered += "bar";
             }
+            if ('7' == stringNum.charAt(i)) {
+                playerEntered += "qix";
+            }
         }
 
         if (playerEntered.equals("")) {

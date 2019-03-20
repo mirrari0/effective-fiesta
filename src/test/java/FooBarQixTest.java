@@ -24,8 +24,8 @@ public class FooBarQixTest {
     }
 
     @Test
-    public void given_seven_should_return_qix() {
-        assertEquals("qix", new FooBarQix().playGame(7));
+    public void given_seven_should_return_qixqix() {
+        assertEquals("qixqix", new FooBarQix().playGame(7));
     }
 
     @Test
@@ -36,5 +36,10 @@ public class FooBarQixTest {
     @Test
     public void contains_digit_five_and_divisible_by_five_should_return_barbar() {
         assertEquals("barbar", new FooBarQix().playGame(25));
+    }
+
+    @Test
+    public void contains_digit_seven_and_divisible_by_seven_should_return_qixqix() {
+        assertEquals("qixqix", new FooBarQix().playGame(70));
     }
 }
