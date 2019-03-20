@@ -47,4 +47,9 @@ public class FooBarQixTest {
     public void contains_digit_five_and_is_multiple_of_five_and_seven_should_return_barqixfoobar() {
         assertEquals("barqixfoobar", new FooBarQix().playGame(35));
     }
+
+    @Test
+    public void contains_digit_five_and_is_multiple_of_five_and_three_should_return_foobarbar() {
+        assertEquals("foobarbar", new FooBarQix().playGame(15));
+    }
 }

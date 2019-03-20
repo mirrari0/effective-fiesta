@@ -6,7 +6,7 @@ public class FooBarQix {
             playerEntered = "foo";
         }
         if (number % 5 == 0) {
-            playerEntered = "bar";
+            playerEntered += "bar";
         }
 
         if (number % 7 == 0) {
