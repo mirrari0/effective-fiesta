@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FooBarQixTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-20T19:33:04" hostname="MacBook-Pro-7.local" time="0.002">
+<testsuite name="FooBarQixTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-03-20T19:39:50" hostname="MacBook-Pro-7.local" time="0.002">
   <properties/>
-  <testcase name="given_five_should_return_bar" classname="FooBarQixTest" time="0.001"/>
+  <testcase name="given_three_returns_foofoo" classname="FooBarQixTest" time="0.001"/>
+  <testcase name="given_seven_should_return_qix" classname="FooBarQixTest" time="0.0"/>
+  <testcase name="given_five_should_return_bar" classname="FooBarQixTest" time="0.0"/>
   <testcase name="give_a_one_should_return_one" classname="FooBarQixTest" time="0.0"/>
-  <testcase name="given_three_returns_foo" classname="FooBarQixTest" time="0.0"/>
+  <testcase name="contains_digit_three_should_return_foo" classname="FooBarQixTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

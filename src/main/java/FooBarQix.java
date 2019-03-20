@@ -1,12 +1,26 @@
 public class FooBarQix {
-    public String playGame(int i) {
-        String playerEntered = String.valueOf(i);
+    public String playGame(int number) {
+        String playerEntered = "";
 
-        if(i % 3 == 0){
+        if(number % 3 == 0){
             playerEntered = "foo";
         }
-        if(i==5) {
+        if(number==5) {
             playerEntered = "bar";
+        }
+
+        if(number % 7 == 0){
+            playerEntered = "qix";
+        }
+
+        String stringNum = String.valueOf(number);
+        for(int i =0; i < stringNum.length(); i++) {
+            if('3' == stringNum.charAt(i)) {
+                playerEntered+="foo";
+            }
+        }
+        if(playerEntered.equals("")) {
+            playerEntered = stringNum;
         }
 
         return playerEntered;

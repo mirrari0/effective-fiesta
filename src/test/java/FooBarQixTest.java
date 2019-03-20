@@ -5,8 +5,8 @@ import static org.junit.Assert.assertEquals;
 public class FooBarQixTest {
 
     @Test
-    public void given_three_returns_foo(){
-        assertEquals( "foo", new FooBarQix().playGame(3));
+    public void given_three_returns_foofoo(){
+        assertEquals( "foofoo", new FooBarQix().playGame(3));
     }
 
     @Test
@@ -19,4 +19,13 @@ public class FooBarQixTest {
         assertEquals("bar", new FooBarQix().playGame(5));
     }
 
+    @Test
+    public void given_seven_should_return_qix() {
+        assertEquals("qix", new FooBarQix().playGame(7));
+    }
+
+    @Test
+    public void contains_digit_three_should_return_foo() {
+        assertEquals("foo", new FooBarQix().playGame(13));
+    }
 }

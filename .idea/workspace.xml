@@ -26,8 +26,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/FooBarQixTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+                <state relative-caret-position="390">
+                  <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#177#178#0" expanded="true" />
@@ -36,6 +36,10 @@
                     <element signature="e#309#310#0" expanded="true" />
                     <element signature="e#402#403#0" expanded="true" />
                     <element signature="e#464#465#0" expanded="true" />
+                    <element signature="e#523#524#0" expanded="true" />
+                    <element signature="e#587#588#0" expanded="true" />
+                    <element signature="e#646#647#0" expanded="true" />
+                    <element signature="e#710#711#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -48,8 +52,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/FooBarQix.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+                <state relative-caret-position="330">
+                  <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
                 </state>
               </provider>
             </entry>
@@ -137,7 +141,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553110377417" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553110788337" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -193,20 +197,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553109615109</updated>
-      <workItem from="1553109617176" duration="757000" />
+      <workItem from="1553109617176" duration="1167000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 25m 07s.xml">
-      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 25m 34s.xml">
-      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 26m 25s.xml">
-      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="FooBarQixTest - 2019.03.20 at 14h 27m 41s.xml">
       <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -219,9 +214,27 @@
     <history-entry file="FooBarQixTest - 2019.03.20 at 14h 32m 41s.xml">
       <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 33m 04s.xml">
+      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 33m 50s.xml">
+      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 34m 31s.xml">
+      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 35m 43s.xml">
+      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 38m 44s.xml">
+      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FooBarQixTest - 2019.03.20 at 14h 39m 17s.xml">
+      <configuration name="FooBarQixTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="757000" />
+    <option name="totallyTimeSpent" value="1167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="642" y="23" width="1278" height="985" extended-state="0" />
@@ -265,8 +278,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/FooBarQixTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        <state relative-caret-position="390">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#177#178#0" expanded="true" />
@@ -275,14 +288,18 @@
             <element signature="e#309#310#0" expanded="true" />
             <element signature="e#402#403#0" expanded="true" />
             <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FooBarQix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="330">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
         </state>
       </provider>
     </entry>
